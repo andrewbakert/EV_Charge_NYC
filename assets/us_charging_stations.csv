@@ -1,0 +1,2 @@
+Error Code,Error Message
+"API_KEY_UNAUTHORIZED","The api_key supplied is not authorized to access the given service. Contact us at https://developer.nrel.gov/contact/ for assistance"

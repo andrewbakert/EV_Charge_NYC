@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore files
+config.py
+assets/ny_reg.csv
+assets/top_routes.geojson
+assets/traffic_results.geojson
+assets/trips/perpub.csv
+assets/trips/trippub.csv
+assets/EValuateNY-ZIP-File/EValuateNY.pbix
+assets/EValuateNY-ZIP-File/ny_ev_registrations.csv
